@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rojaslabs
 - 🌱 I’m currently learning MERN
-- 📫 How to reach me exxscher@gmail.com
+- 📫 Reach me at exxscher@gmail.com
 
 <!---
 rojaslabs/rojaslabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
