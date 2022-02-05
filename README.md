@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rojaslabs
-- 🌱 I’m currently learning MERN
+- 👋 Hi, I’m Jorge.
+- 🌱 I’m currently learning MERN at Coding Dojo.
 - 📫 Reach me at exxscher@gmail.com
 
 <!---
