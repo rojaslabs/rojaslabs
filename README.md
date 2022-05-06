@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Rojas</h1>
-<h3 align="center">A Frontend Developer and Graphic Designer from Chile.</h3>
+<h3 align="center">A Frontend Developer and Graphic Designer from Chile</h3>
 
 - 🌱 I’m currently learning **React, JS and more React.**
 
