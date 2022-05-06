@@ -5,7 +5,7 @@
 
 - 👨‍💻 My recent projects are available at [https://github.com/rojaslabs](https://github.com/rojaslabs)
 
-- 📫 Reach me at **https://www.linkedin.com/in/rojaslabs**
+- 📫 Reach me at [https://www.linkedin.com/in/rojaslabs](https://www.linkedin.com/in/rojaslabs)
 
 - ⚡ Fun fact **I'm a big fan of video games, especially console video games.**
 
