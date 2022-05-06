@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, JS and more React.**
 
-- 👨‍💻 My recent projects are available at [https://github.com/rojaslabs](https://github.com/rojaslabs)
+- 👨‍💻 My recent projects are available at [https://github.com/rojaslabs?tab=stars](https://github.com/rojaslabs?tab=stars)
 
 - 📫 Reach me at [https://www.linkedin.com/in/rojaslabs](https://www.linkedin.com/in/rojaslabs)
 
