@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Rojas</h1>
 <h3 align="center">A Frontend Developer and Graphic Designer from Chile</h3>
 
-- 🌱 I’m currently learning **React, React and more React.**
+- 🌱 I’m currently learning **Angular and React.**
 
 - 👨‍💻 My recent projects (with live previews!) are available at [https://github.com/rojaslabs?tab=stars](https://github.com/rojaslabs?tab=stars)
 
